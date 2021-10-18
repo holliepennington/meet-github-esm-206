@@ -51,9 +51,13 @@ The organization of this document probably seems strange. That's because it's pa
 Here's where I want to have info on ringtials
 
 ![Ringtail cat (courtesy of VA zoo)](img/ringtail_cat.jpg)
-whatever is the square braquets is the text we want to use. the () will have the path
+whatever is the square brackets is the text we want to use. the () will have the path
 We'll aslo learn about `knitr::include_graphics()`
 
+Add a few fun facts: 
+- they can rotate their hind feet 180 degrees 
+- they are not endangered, they're just very elusive 
+- they are closely related to raccoon 
 ###
 
 ----------
